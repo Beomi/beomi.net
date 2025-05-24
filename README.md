@@ -2,6 +2,10 @@
 
 ## URLs
 
+### 2025
+
+- https://beomi.net/bwai-2505/slides : Google Slides
+
 ### 2024
 
 - https://beomi.net/sk-2411/raft : RAFT colab tutorial
